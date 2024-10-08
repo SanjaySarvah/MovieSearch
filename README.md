@@ -12,8 +12,7 @@ Users can add movies to a favorites list.
  API: OMDb API (Open Movie Database)
 
 # Clone the Repository
-git clone https://github.com/your-username/movie-listing-app.git
-
+git clone [https://github.com/SanjaySarvah/MovieSearch.git
 #  OMDb API Setup
 Get an API key from OMDb API and replace the placeholder API key in your code with the actual key.
 const apiKey = 'YOUR_OMDB_API_KEY';
