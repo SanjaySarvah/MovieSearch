@@ -19,4 +19,7 @@ const apiKey = 'YOUR_OMDB_API_KEY';
 
 # Install Dependencies
 npm install
+npm install react-router-dom
+npm install react-joyride (for session tour)
+
 
